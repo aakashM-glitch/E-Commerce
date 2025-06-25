@@ -228,17 +228,16 @@ h4{
 .footer-col-2 img{
     width: 180px;
     margin-bottom: 20px;
-
-
 }
-
-
 
 .logo img{
     border-radius: 50%;
     margin-top: 18px;
 }
 
+.active{
+    background-color: black;
+}
 
 
 
